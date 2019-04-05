@@ -1,0 +1,64 @@
+{
+  "id": 1209432935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.8007,-18.87116,-159.8007,-18.87116",
+    "geom:latitude":-18.87116,
+    "geom:longitude":-159.8007,
+    "gn:admin1_code":"11695124.0",
+    "gn:asciiname":"Nikaupara",
+    "gn:country_code":"CK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036522,
+    "gn:latitude":-18.87116,
+    "gn:longitude":-159.8007,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Nikaupara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rar_x_preferred":[
+        "Nikaupara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036522
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"5af11449a1909f73bf87dd25243650d9",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632481,
+            "locality_id":1209432935
+        }
+    ],
+    "wof:id":1209432935,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Nikaupara",
+    "wof:parent_id":85632481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.8007,
+    -18.87116,
+    -159.8007,
+    -18.87116
+],
+  "geometry": {"coordinates":[-159.80070000000001,-18.87116],"type":"Point"}
+}

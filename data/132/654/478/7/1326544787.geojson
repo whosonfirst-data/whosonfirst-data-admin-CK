@@ -1,0 +1,68 @@
+{
+  "id": 1326544787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.78537,-18.87437,-159.78537,-18.87437",
+    "geom:latitude":-18.87437,
+    "geom:longitude":-159.78537,
+    "gn:admin1_code":"11695124.0",
+    "gn:asciiname":"Tautu",
+    "gn:country_code":"CK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036511,
+    "gn:latitude":-18.87437,
+    "gn:longitude":-159.78537,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Tautu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670101,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036511
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"9a5e30dc442512f455007bfecc3cd823",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1326544787,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":1326544787,
+    "wof:lastmodified":1536965591,
+    "wof:name":"Tautu",
+    "wof:parent_id":85670101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.78537,
+    -18.87437000000001,
+    -159.78537,
+    -18.87437000000001
+],
+  "geometry": {"coordinates":[-159.78537,-18.87437000000001],"type":"Point"}
+}

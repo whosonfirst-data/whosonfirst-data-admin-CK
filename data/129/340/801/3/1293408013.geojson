@@ -1,0 +1,68 @@
+{
+  "id": 1293408013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.77818,-18.87102,-159.77818,-18.87102",
+    "geom:latitude":-18.87102,
+    "geom:longitude":-159.77818,
+    "gn:admin1_code":"11695124.0",
+    "gn:asciiname":"Vaipae",
+    "gn:country_code":"CK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035447,
+    "gn:latitude":-18.87102,
+    "gn:longitude":-159.77818,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Vaipae",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670101,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035447
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"6ff15030bcf1a21a1f7b47b2de6c0274",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1293408013,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":1293408013,
+    "wof:lastmodified":1536901702,
+    "wof:name":"Vaipae",
+    "wof:parent_id":85670101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.77818,
+    -18.87102,
+    -159.77818,
+    -18.87102
+],
+  "geometry": {"coordinates":[-159.77817999999999,-18.87102],"type":"Point"}
+}

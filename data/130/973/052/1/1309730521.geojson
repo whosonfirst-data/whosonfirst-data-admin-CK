@@ -1,0 +1,67 @@
+{
+  "id": 1309730521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-163.20884,-18.05525,-163.20884,-18.05525",
+    "geom:latitude":-18.05525,
+    "geom:longitude":-163.20884,
+    "gn:admin1_code":"11695387.0",
+    "gn:asciiname":"Palmerston",
+    "gn:country_code":"CK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036432,
+    "gn:latitude":-18.05525,
+    "gn:longitude":-163.20884,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Palmerston",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Village",
+        "Home",
+        "Palmerston Island Village",
+        "Palmerston"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036432
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"3f012964a69157876b3aa09657477dc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309730521,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309730521,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Palmerston",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -163.20883999999995,
+    -18.05525,
+    -163.20883999999995,
+    -18.05525
+],
+  "geometry": {"coordinates":[-163.20883999999995,-18.05525],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1343276599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-161.01018,-10.37518,-161.01018,-10.37518",
+    "geom:latitude":-10.37518,
+    "geom:longitude":-161.01018,
+    "gn:admin1_code":"11695384.0",
+    "gn:asciiname":"Tukao",
+    "gn:country_code":"CK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035463,
+    "gn:latitude":-10.37518,
+    "gn:longitude":-161.01018,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Tukao",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuko Village",
+        "Tuko",
+        "Tukao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035463
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"b4f18364e7d02ba7bb0a40428ecd67f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343276599,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343276599,
+    "wof:lastmodified":1537591097,
+    "wof:name":"Tukao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -161.01018,
+    -10.37518,
+    -161.01018,
+    -10.37518
+],
+  "geometry": {"coordinates":[-161.01017999999999,-10.37518],"type":"Point"}
+}

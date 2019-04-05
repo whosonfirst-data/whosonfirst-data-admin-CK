@@ -1,0 +1,74 @@
+{
+  "id": 1225959015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-158.12058,-19.99813,-158.12058,-19.99813",
+    "geom:latitude":-19.99813,
+    "geom:longitude":-158.12058,
+    "gn:admin1_code":"11695126.0",
+    "gn:asciiname":"Ngatiarua Village",
+    "gn:country_code":"CK",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035622,
+    "gn:latitude":-19.99813,
+    "gn:longitude":-158.12058,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Ngatiarua Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ngatiarua Village"
+    ],
+    "name:rar_x_preferred":[
+        "Ngatiarua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670079,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035622
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"8fa9f7a310050e5e9642a476cc968b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1225959015,
+            "region_id":85670079
+        }
+    ],
+    "wof:id":1225959015,
+    "wof:lastmodified":1537591097,
+    "wof:name":"Ngatiarua Village",
+    "wof:parent_id":85670079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.12058000000005,
+    -19.99813,
+    -158.12058000000005,
+    -19.99813
+],
+  "geometry": {"coordinates":[-158.12058000000005,-19.99813],"type":"Point"}
+}

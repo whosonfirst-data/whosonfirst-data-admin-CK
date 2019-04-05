@@ -1,0 +1,82 @@
+{
+  "id": 890423715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.79331,-18.85529,-159.79331,-18.85529",
+    "geom:latitude":-18.85529,
+    "geom:longitude":-159.79331,
+    "gn:country":"CK",
+    "gn:fcode":"PPL",
+    "gn:pop":285,
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Amuri"
+    ],
+    "name:eng_x_preferred":[
+        "Amuri"
+    ],
+    "name:fre_x_preferred":[
+        "Amuri"
+    ],
+    "name:pol_x_preferred":[
+        "Amuri"
+    ],
+    "qs:name":"Amuri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":30,
+    "wof:belongsto":[
+        85632481,
+        85670101,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035755,
+        "gp:id":1064302,
+        "qs:id":586194,
+        "wd:id":"Q2844525",
+        "wk:page":"Amuri"
+    },
+    "wof:country":"CK",
+    "wof:created":1469051510,
+    "wof:geomhash":"4979bbde31e252beda75fd5098ddd1e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":890423715,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":890423715,
+    "wof:lastmodified":1527727271,
+    "wof:name":"Amuri",
+    "wof:parent_id":85670101,
+    "wof:placetype":"locality",
+    "wof:population":285,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.79331,
+    -18.85529,
+    -159.79331,
+    -18.85529
+],
+  "geometry": {"coordinates":[-159.79330999999999,-18.85529],"type":"Point"}
+}

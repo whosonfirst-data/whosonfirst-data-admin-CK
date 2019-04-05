@@ -1,0 +1,64 @@
+{
+  "id": 1360299949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.71667,-19.69722,-157.71667,-19.69722",
+    "geom:latitude":-19.69722,
+    "geom:longitude":-157.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mangarei Village",
+    "gn:country_code":"CK",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036465,
+    "gn:latitude":-19.69722,
+    "gn:longitude":-157.71667,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Mangarei Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mangarei Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036465
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"f8087a1bbefb19c82336d4275fc46fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360299949,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360299949,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Mangarei Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.71667,
+    -19.69722,
+    -157.71667,
+    -19.69722
+],
+  "geometry": {"coordinates":[-157.71666999999999,-19.69722],"type":"Point"}
+}

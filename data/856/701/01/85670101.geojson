@@ -1,0 +1,184 @@
+{
+  "id": 85670101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001247,
+    "geom:area_square_m":14594214.017971,
+    "geom:bbox":"-159.802316861,-18.8879533823,-159.761382616,-18.8289527318",
+    "geom:latitude":-18.858395,
+    "geom:longitude":-159.786601,
+    "gn:id":"",
+    "iso:country":"CK",
+    "label:eng_x_preferred_longname":[
+        "Palmerston Island Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "island council"
+    ],
+    "lbl:latitude":-18.861783,
+    "lbl:longitude":-159.790012,
+    "mps:latitude":-18.861783,
+    "mps:longitude":-159.790012,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:afr_x_preferred":[
+        "Palmerston"
+    ],
+    "name:deu_x_preferred":[
+        "Palmerston"
+    ],
+    "name:eng_x_preferred":[
+        "Palmerston"
+    ],
+    "name:fin_x_preferred":[
+        "Palmerston"
+    ],
+    "name:fra_x_preferred":[
+        "Palmerston"
+    ],
+    "name:ita_x_preferred":[
+        "Palmerston"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\uba38\uc2a4\ud134"
+    ],
+    "name:nld_x_preferred":[
+        "Palmerston"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u043b\u044c\u043c\u0435\u0440\u0441\u0442\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Palmerston"
+    ],
+    "name:swe_x_preferred":[
+        "Palmerston"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Palmerston"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"COK",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"COK-4956",
+    "ne:adm1_code":"COK-4956",
+    "ne:admin":"Cook Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CK.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4956",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cook Islands",
+    "ne:gn_a1_code":"CK.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"COK",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CK-",
+    "ne:iso_a2":"CK",
+    "ne:labelrank":"20",
+    "ne:latitude":"-18.89680000000",
+    "ne:longitude":"-159.77100000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Palmerston",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"NZ1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Palmerston_Island",
+    "ne:woe_id":24549670,
+    "ne:woe_label":"",
+    "ne:woe_name":"Palmerston",
+    "qs:a0":"Cook Islands",
+    "qs:a0_lc":"CK",
+    "qs:a1":"Palmerston",
+    "qs:a1_lc":"COK-4956",
+    "qs:adm0":"Cook Islands",
+    "qs:adm0_a3":"COK",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191583,
+        85632481,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":-99,
+        "gp:id":24549670,
+        "hasc:id":"CK.",
+        "qs:id":774981
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"a97c8bec5e11b086ac67a448fc4c5569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":85670101,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553626627,
+    "wof:name":"Palmerston",
+    "wof:parent_id":85632481,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.80231686113422,
+    -18.88795338234269,
+    -159.7613826156152,
+    -18.82895273178309
+],
+  "geometry": {"coordinates":[[[-159.78510494693572,-18.83082447636843],[-159.77261308492589,-18.82895273178309],[-159.76199296750141,-18.83725351383856],[-159.76138261561519,-18.84539153389215],[-159.76496334458267,-18.8417294243734],[-159.76663164003813,-18.83521900815066],[-159.76968339767063,-18.83432382568395],[-159.77924557152588,-18.85287851403217],[-159.77961178265761,-18.85637786244837],[-159.77647864447383,-18.87818775755892],[-159.78286699121864,-18.88795338234269],[-159.79360917902036,-18.88746510173303],[-159.80081132678129,-18.87818775755892],[-159.80231686113422,-18.86581796682566],[-159.79788163952603,-18.84653085711329],[-159.79385331887553,-18.83993905943998],[-159.78510494693572,-18.83082447636843]]],"type":"Polygon"}
+}

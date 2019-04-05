@@ -1,0 +1,197 @@
+{
+  "id": 85670111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000118,
+    "geom:area_square_m":1438064.660997,
+    "geom:bbox":"-161.088002082,-10.0446102834,-161.070057746,-10.02743906",
+    "geom:latitude":-10.035823,
+    "geom:longitude":-161.080727,
+    "gn:id":"",
+    "iso:country":"CK",
+    "label:eng_x_preferred_longname":[
+        "Rakahanga Island Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "island council"
+    ],
+    "lbl:latitude":-10.035673,
+    "lbl:longitude":-161.080863,
+    "mps:latitude":-10.035673,
+    "mps:longitude":-161.080863,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Rakahanga Atoll"
+    ],
+    "name:deu_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:eng_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u06a9\u0627\u0647\u0627\u0646\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:fra_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Rakahanga"
+    ],
+    "name:ita_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:lit_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:nld_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:nor_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:pol_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:por_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043a\u0430\u0445\u0430\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:swe_x_preferred":[
+        "Rakahanga"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"COK",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"COK-4960",
+    "ne:adm1_code":"COK-4960",
+    "ne:admin":"Cook Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CK.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4960",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cook Islands",
+    "ne:gn_a1_code":"CK.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"COK",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CK-",
+    "ne:iso_a2":"CK",
+    "ne:labelrank":"20",
+    "ne:latitude":"-10.06410000000",
+    "ne:longitude":"-161.06500000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Rakahanga",
+    "ne:name_alt":"",
+    "ne:name_len":9,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"NZ1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Rakahanga",
+    "ne:woe_id":24549673,
+    "ne:woe_label":"",
+    "ne:woe_name":"Rakahanga",
+    "qs:a0":"Cook Islands",
+    "qs:a0_lc":"CK",
+    "qs:a1":"Rakahanga",
+    "qs:a1_lc":"COK-4960",
+    "qs:adm0":"Cook Islands",
+    "qs:adm0_a3":"COK",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":781,
+    "wof:belongsto":[
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":-99,
+        "gp:id":24549673,
+        "hasc:id":"CK.",
+        "qs:id":775065,
+        "wd:id":"Q1345121"
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"5507f99204c249e4dd3f0f93a45ac660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "region_id":85670111
+        }
+    ],
+    "wof:id":85670111,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553626628,
+    "wof:name":"Rakahanga",
+    "wof:parent_id":-1,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -161.08800208153082,
+    -10.04461028343781,
+    -161.07005774596817,
+    -10.02743905996459
+],
+  "geometry": {"coordinates":[[[-161.08800208153082,-10.03508879940853],[-161.07005774596817,-10.02743905996459],[-161.0755509111456,-10.0363908828329],[-161.08726966106599,-10.04461028343781],[-161.08800208153082,-10.03508879940853]]],"type":"Polygon"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226765843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-157.71667,-19.81667,-157.71667,-19.81667",
+    "geom:latitude":-19.81667,
+    "geom:longitude":-157.71667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Nukatere",
+    "gn:country_code":"CK",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035613,
+    "gn:latitude":-19.81667,
+    "gn:longitude":-157.71667,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Nukatere",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rar_x_preferred":[
+        "Nukatere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        136253053,
+        85670093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035613
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"f34a553756c8736a41cdfccd04921e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "empire_id":136253053,
+            "locality_id":1226765843,
+            "region_id":85670093
+        }
+    ],
+    "wof:id":1226765843,
+    "wof:lastmodified":1537591097,
+    "wof:name":"Nukatere",
+    "wof:parent_id":85670093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -157.71667,
+    -19.81667,
+    -157.71667,
+    -19.81667
+],
+  "geometry": {"coordinates":[-157.71666999999999,-19.81667],"type":"Point"}
+}

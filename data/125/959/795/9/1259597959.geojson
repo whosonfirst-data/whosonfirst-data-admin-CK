@@ -1,0 +1,72 @@
+{
+  "id": 1259597959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.81807,-21.2395,-159.81807,-21.2395",
+    "geom:latitude":-21.2395,
+    "geom:longitude":-159.81807,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Arorangi District",
+    "gn:country_code":"CK",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035726,
+    "gn:latitude":-21.2395,
+    "gn:longitude":-159.81807,
+    "gn:modification_date":"2017-10-23",
+    "gn:name":"Arorangi District",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arorangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670089,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035726,
+        "wk:page":"Arorangi"
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"5a783edd91053be378e1a89d29b590df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1259597959,
+            "region_id":85670089
+        }
+    ],
+    "wof:id":1259597959,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Arorangi District",
+    "wof:parent_id":85670089,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.81807,
+    -21.2395,
+    -159.81807,
+    -21.2395
+],
+  "geometry": {"coordinates":[-159.81807000000001,-21.2395],"type":"Point"}
+}

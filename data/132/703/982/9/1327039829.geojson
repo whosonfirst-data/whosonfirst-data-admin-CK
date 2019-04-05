@@ -1,0 +1,71 @@
+{
+  "id": 1327039829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.79916,-18.86802,-159.79916,-18.86802",
+    "geom:latitude":-18.86802,
+    "geom:longitude":-159.79916,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Reureu",
+    "gn:country_code":"CK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036528,
+    "gn:latitude":-18.86802,
+    "gn:longitude":-159.79916,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Reureu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rar_x_preferred":[
+        "Reureu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670101,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036528
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"f20b20bffac6680ecc32f2eed0bf95dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1327039829,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":1327039829,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Reureu",
+    "wof:parent_id":85670101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.79916,
+    -18.86802,
+    -159.79916,
+    -18.86802
+],
+  "geometry": {"coordinates":[-159.79916,-18.86802],"type":"Point"}
+}

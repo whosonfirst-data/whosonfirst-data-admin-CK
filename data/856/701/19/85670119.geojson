@@ -1,0 +1,177 @@
+{
+  "id": 85670119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.001321,
+    "geom:area_square_m":16132643.49385,
+    "geom:bbox":"-158.064808723,-9.11394622194,-157.908762174,-8.94670989415",
+    "geom:latitude":-8.993401,
+    "geom:longitude":-157.980212,
+    "gn:id":"",
+    "iso:country":"CK",
+    "label:eng_x_preferred_longname":[
+        "Penrhyn Island Council"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "island council"
+    ],
+    "lbl:latitude":-8.967759,
+    "lbl:longitude":-157.975971,
+    "mps:latitude":-8.967759,
+    "mps:longitude":-157.975971,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:deu_x_preferred":[
+        "Penryn"
+    ],
+    "name:eng_x_preferred":[
+        "Tongareva"
+    ],
+    "name:fra_x_preferred":[
+        "Penryn"
+    ],
+    "name:hbs_x_preferred":[
+        "Penren"
+    ],
+    "name:ita_x_preferred":[
+        "Penryn"
+    ],
+    "name:kor_x_preferred":[
+        "\ud39c\ub9b0"
+    ],
+    "name:nor_x_preferred":[
+        "Penryn"
+    ],
+    "name:pol_x_preferred":[
+        "Penryn"
+    ],
+    "name:srp_x_preferred":[
+        "\u041f\u0435\u043d\u0440\u0435\u043d"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"COK",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"4",
+    "ne:adm1_cod_1":"COK-4962",
+    "ne:adm1_code":"COK-4962",
+    "ne:admin":"Cook Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"CK.",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"4962",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Cook Islands",
+    "ne:gn_a1_code":"CK.",
+    "ne:gn_id":"-99",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"COK",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"CK-",
+    "ne:iso_a2":"CK",
+    "ne:labelrank":"20",
+    "ne:latitude":"-8.99614000000",
+    "ne:longitude":"-157.95600000000",
+    "ne:mapcolor13":4,
+    "ne:mapcolor9":4,
+    "ne:name":"Penrhyn",
+    "ne:name_alt":"Tongareva|Mangarongaro|Hararanga|Te Pitaka",
+    "ne:name_len":7,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"NZ1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"http://en.wikipedia.org/wiki/Penrhyn_Island",
+    "ne:woe_id":24549679,
+    "ne:woe_label":"",
+    "ne:woe_name":"Tongareva",
+    "qs:a0":"Cook Islands",
+    "qs:a0_lc":"CK",
+    "qs:a1":"Penrhyn",
+    "qs:a1_lc":"COK-4962",
+    "qs:adm0":"Cook Islands",
+    "qs:adm0_a3":"COK",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":186,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191583,
+        85632481,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":-99,
+        "gp:id":24549679,
+        "hasc:id":"CK.",
+        "qs:id":135926
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"0ae5cc10c98cf647b5f987690fdbfc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "region_id":85670119
+        }
+    ],
+    "wof:id":85670119,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553626628,
+    "wof:name":"Penrhyn",
+    "wof:parent_id":85632481,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.0648087230441,
+    -9.11394622194052,
+    -157.9087621738352,
+    -8.94670989414624
+],
+  "geometry": {"coordinates":[[[[-157.98578854050871,-9.09750741983152],[-157.97533118418679,-9.11394622194052],[-157.97935950393793,-9.11280689871933],[-158.01093502473157,-9.06666432040203],[-158.00934811072671,-9.06617603979237],[-157.98578854050871,-9.09750741983152]]],[[[-157.90876217383521,-9.0348446588539],[-157.91018632673757,-9.03647226358407],[-157.9166967438596,-9.03028736776776],[-157.92117265529379,-9.02857838248633],[-157.92568925655391,-9.02337004968797],[-157.92743893076201,-9.01751067517745],[-157.92695065015235,-9.01498788887994],[-157.9125056630059,-9.03036874741969],[-157.91018632673757,-9.03264739386208],[-157.90876217383521,-9.0348446588539]]],[[[-158.02997799368944,-9.0616187478069],[-158.03164628824558,-9.06332773128975],[-158.03758704330738,-9.05942148191582],[-158.06480872304411,-9.01458098792222],[-158.03184973917411,-9.0599097634248],[-158.02997799368944,-9.0616187478069]]],[[[-157.94074459468726,-8.98072682068619],[-157.96186275915898,-8.98072682068619],[-157.97862708167446,-8.97600676849754],[-157.99714108019666,-8.96461353988292],[-158.00829016805679,-8.95289478996256],[-158.00287838432993,-8.94670989414624],[-157.94074459468726,-8.97454192486987],[-157.94074459468726,-8.98072682068619]]]],"type":"MultiPolygon"}
+}

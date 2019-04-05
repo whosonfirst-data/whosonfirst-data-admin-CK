@@ -1,0 +1,64 @@
+{
+  "id": 1209424961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-158.11609,-19.99926,-158.11609,-19.99926",
+    "geom:latitude":-19.99926,
+    "geom:longitude":-158.11609,
+    "gn:admin1_code":"11695126.0",
+    "gn:asciiname":"Areora",
+    "gn:country_code":"CK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035729,
+    "gn:latitude":-19.99926,
+    "gn:longitude":-158.11609,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Areora",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rar_x_preferred":[
+        "Areora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035729
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"0fb25f061f1c595dc8f57e4e07680c6a",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632481,
+            "locality_id":1209424961
+        }
+    ],
+    "wof:id":1209424961,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Areora",
+    "wof:parent_id":85632481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -158.11609,
+    -19.99926,
+    -158.11609,
+    -19.99926
+],
+  "geometry": {"coordinates":[-158.11609000000001,-19.99926],"type":"Point"}
+}

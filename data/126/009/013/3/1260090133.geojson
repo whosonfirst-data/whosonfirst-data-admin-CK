@@ -1,0 +1,74 @@
+{
+  "id": 1260090133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-159.79808,-18.86509,-159.79808,-18.86509",
+    "geom:latitude":-18.86509,
+    "geom:longitude":-159.79808,
+    "gn:admin1_code":"11695124.0",
+    "gn:asciiname":"Arutanga",
+    "gn:cc2":"CK",
+    "gn:country_code":"CK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035725,
+    "gn:latitude":-18.86509,
+    "gn:longitude":-159.79808,
+    "gn:modification_date":"2017-10-25",
+    "gn:name":"Arutanga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Rarotonga",
+    "iso:country":"CK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arutunga",
+        "Arutanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632481,
+        85670101,
+        102191583,
+        136253053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035725,
+        "wk:page":"Arutanga"
+    },
+    "wof:country":"CK",
+    "wof:geomhash":"3116ab28e6601fc6d3fd5a62d87fd589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632481,
+            "empire_id":136253053,
+            "locality_id":1260090133,
+            "region_id":85670101
+        }
+    ],
+    "wof:id":1260090133,
+    "wof:lastmodified":1537591098,
+    "wof:name":"Arutanga",
+    "wof:parent_id":85670101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ck",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -159.79808,
+    -18.86509,
+    -159.79808,
+    -18.86509
+],
+  "geometry": {"coordinates":[-159.79808,-18.86509],"type":"Point"}
+}
