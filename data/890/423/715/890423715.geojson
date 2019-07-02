@@ -15,13 +15,13 @@
     "iso:country":"CK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Amuri"
-    ],
     "name:eng_x_preferred":[
         "Amuri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Amuri"
+    ],
+    "name:nld_x_preferred":[
         "Amuri"
     ],
     "name:pol_x_preferred":[
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":890423715,
-    "wof:lastmodified":1527727271,
+    "wof:lastmodified":1561749531,
     "wof:name":"Amuri",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",
