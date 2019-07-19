@@ -25,8 +25,14 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0643\u0627\u0628\u0648\u0643\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u041f\u0443\u043a\u0430\u043f\u0443\u043a\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u0995\u09be\u09aa\u09c1\u0995\u09be"
     ],
     "name:cat_x_preferred":[
         "Pukapuka"
@@ -34,8 +40,14 @@
     "name:ceb_x_preferred":[
         "Pukapuka"
     ],
+    "name:dan_x_preferred":[
+        "Pukapuka"
+    ],
     "name:deu_x_preferred":[
         "Pukapuka"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bf\u03c5\u03ba\u03b1\u03c0\u03bf\u03cd\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pukapuka"
@@ -52,8 +64,17 @@
     "name:glg_x_preferred":[
         "Pukapuka"
     ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac1\u0a95\u0abe\u0aaa\u0ac1\u0a95\u0abe"
+    ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e7\u05d4\u05e4\u05d5\u05e7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0915\u093e\u092a\u0941\u0915\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Pukapuka"
     ],
     "name:ita_x_preferred":[
         "Pukapuka"
@@ -61,13 +82,31 @@
     "name:jpn_x_preferred":[
         "\u30d7\u30ab\u30d7\u30ab\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc1\u0c95\u0cbe\u0caa\u0cc1\u0c95"
+    ],
     "name:kor_x_preferred":[
         "\ud478\uce74\ud478\uce74 \uc12c"
+    ],
+    "name:kor_x_variant":[
+        "\ud478\uce74\ud478\uce74\uc12c"
+    ],
+    "name:lav_x_preferred":[
+        "Pukapuka"
     ],
     "name:lit_x_preferred":[
         "Pukapuka"
     ],
+    "name:mar_x_preferred":[
+        "\u092a\u0941\u0915\u092a\u0941\u0915\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Pukapuka"
+    ],
     "name:nld_x_preferred":[
+        "Pukapuka"
+    ],
+    "name:nob_x_preferred":[
         "Pukapuka"
     ],
     "name:nor_x_preferred":[
@@ -82,10 +121,34 @@
     "name:rus_x_preferred":[
         "\u041f\u0443\u043a\u0430\u043f\u0443\u043a\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0d9a\u0db4\u0dd4\u0d9a\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Pukapuka"
     ],
     "name:swe_x_preferred":[
+        "Pukapuka"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0b95\u0baa\u0bcd\u0baa\u0bc1\u0b95"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c41\u0c15\u0c3e\u0c2a\u0c41\u0c15\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e1b\u0e38\u0e01\u0e32\u0e1b\u0e38\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Pukapuka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043a\u0430\u043f\u0443\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u06a9\u0627\u067e\u0648\u06a9\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Pukapuka"
     ],
     "name:zho_x_preferred":[
@@ -198,7 +261,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626627,
+    "wof:lastmodified":1563576277,
     "wof:name":"Pukapuka",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

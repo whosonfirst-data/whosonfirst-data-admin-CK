@@ -15,6 +15,9 @@
     "iso:country":"CK",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Amuri"
+    ],
     "name:eng_x_preferred":[
         "Amuri"
     ],
@@ -26,6 +29,12 @@
     ],
     "name:pol_x_preferred":[
         "Amuri"
+    ],
+    "name:swe_x_preferred":[
+        "Amuri"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u06cc"
     ],
     "qs:name":"Amuri",
     "qs:photos_9r":0,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":890423715,
-    "wof:lastmodified":1561749531,
+    "wof:lastmodified":1563576285,
     "wof:name":"Amuri",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",

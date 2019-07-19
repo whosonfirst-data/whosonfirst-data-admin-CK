@@ -15,6 +15,21 @@
     "iso:country":"CK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062a\u0648"
+    ],
+    "name:eng_x_preferred":[
+        "Roto"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30c8"
+    ],
+    "name:sco_x_preferred":[
+        "Roto"
+    ],
+    "name:spa_x_preferred":[
+        "Roto chileno"
+    ],
     "qs:name":"Roto",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -41,7 +56,7 @@
         }
     ],
     "wof:id":890435521,
-    "wof:lastmodified":1527793047,
+    "wof:lastmodified":1563576286,
     "wof:name":"Roto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

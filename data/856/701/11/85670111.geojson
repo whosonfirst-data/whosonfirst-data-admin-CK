@@ -25,14 +25,26 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0643\u0627\u0647\u0627\u0646\u063a\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u0996\u09be\u09b9\u09be\u0982\u0997\u09be"
+    ],
     "name:cat_x_preferred":[
         "Rakahanga"
     ],
     "name:ceb_x_preferred":[
         "Rakahanga Atoll"
     ],
+    "name:dan_x_preferred":[
+        "Rakahanga"
+    ],
     "name:deu_x_preferred":[
         "Rakahanga"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03ba\u03b1\u03c7\u03ac\u03bd\u03b3\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Rakahanga"
@@ -49,13 +61,43 @@
     "name:glg_x_preferred":[
         "Atol Rakahanga"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0a95\u0abe\u0ab9\u0abe\u0a82\u0a97\u0abe"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u093e\u0915\u093e\u0901\u0917\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Rakahanga"
+    ],
     "name:ita_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30ab\u30cf\u30f3\u30ac\u74b0\u7901"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0cbe\u0c95\u0cbe\u0cb9\u0c82\u0c97\u0cbe"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uce74\ud56d\uac00"
+    ],
+    "name:lav_x_preferred":[
         "Rakahanga"
     ],
     "name:lit_x_preferred":[
         "Rakahanga"
     ],
+    "name:mar_x_preferred":[
+        "\u0930\u0915\u093e\u0939\u093e\u0928\u093e"
+    ],
+    "name:msa_x_preferred":[
+        "Rakahanga"
+    ],
     "name:nld_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:nob_x_preferred":[
         "Rakahanga"
     ],
     "name:nor_x_preferred":[
@@ -70,11 +112,38 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u043a\u0430\u0445\u0430\u043d\u0433\u0430"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0d9a\u0dc4\u0db1\u0dca\u0d9c\u0dcf"
+    ],
     "name:spa_x_preferred":[
         "Rakahanga"
     ],
     "name:swe_x_preferred":[
         "Rakahanga"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0b95\u0bb9\u0b99\u0bcd\u0b95\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c15\u0c3e\u0c39\u0c02\u0c17\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e23\u0e32\u0e04\u0e32\u0e2e\u0e31\u0e07\u0e01\u0e49\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043a\u0430\u0445\u0430\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u06a9\u0627\u062d\u0627\u0646\u062c\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Rakahanga"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u5361\u6f22\u683c\u65af\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COK",
@@ -178,7 +247,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626628,
+    "wof:lastmodified":1563576277,
     "wof:name":"Rakahanga",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -25,14 +25,26 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u062a\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a4\u09bf\u0989"
+    ],
     "name:cat_x_preferred":[
         "Atiu"
     ],
     "name:ceb_x_preferred":[
         "Atiu"
     ],
+    "name:dan_x_preferred":[
+        "Atiu"
+    ],
     "name:deu_x_preferred":[
         "Atiu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03af\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Atiu"
@@ -52,8 +64,20 @@
     "name:glg_x_preferred":[
         "Atiu"
     ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0aa4\u0abf\u0a89"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d8\u05d9\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u090f\u091f\u0940\u092f\u0942"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u057f\u056b\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Atiu"
     ],
     "name:ita_x_preferred":[
         "Atiu"
@@ -61,10 +85,28 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30c1\u30a6\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0c9f\u0cbf\u0caf\u0cc1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ud2f0\uc6b0"
+    ],
+    "name:lav_x_preferred":[
+        "Atiu"
+    ],
     "name:lit_x_preferred":[
         "Atiu"
     ],
+    "name:mar_x_preferred":[
+        "\u0905\u0924\u093f\u092f\u0941"
+    ],
+    "name:msa_x_preferred":[
+        "Atiu"
+    ],
     "name:nld_x_preferred":[
+        "Atiu"
+    ],
+    "name:nob_x_preferred":[
         "Atiu"
     ],
     "name:nor_x_preferred":[
@@ -73,14 +115,44 @@
     "name:pol_x_preferred":[
         "Atiu"
     ],
+    "name:por_x_preferred":[
+        "Atiu"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0442\u0438\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0da7\u0dd2\u0dba\u0dd4"
     ],
     "name:spa_x_preferred":[
         "Atiu"
     ],
     "name:swe_x_preferred":[
         "Atiu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0b9f\u0bbf\u0b95\u0bcd\u0b95\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c1f\u0c3f\u0c2f\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e17\u0e34\u0e22\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Atiu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u0456\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u062a\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Atiu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u8482\u70cf\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COK",
@@ -188,7 +260,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626627,
+    "wof:lastmodified":1563576281,
     "wof:name":"Atiu",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

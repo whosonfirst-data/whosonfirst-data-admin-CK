@@ -25,8 +25,14 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u062a\u0648\u062a\u0627\u0643\u064a"
+    ],
     "name:ast_x_preferred":[
         "Aitutaki"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0987\u09a4\u09cb\u099f\u09be\u0995\u09bf"
     ],
     "name:bos_x_preferred":[
         "Aitutaki"
@@ -40,8 +46,14 @@
     "name:ces_x_preferred":[
         "Aitutaki"
     ],
+    "name:dan_x_preferred":[
+        "Aitutaki"
+    ],
     "name:deu_x_preferred":[
         "Aitutaki"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ca\u03c4\u03bf\u03c5\u03c4\u03ac\u03ba\u03b9"
     ],
     "name:eng_x_preferred":[
         "Aitutaki"
@@ -61,10 +73,19 @@
     "name:glg_x_preferred":[
         "Illa Aitutaki"
     ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa4\u0ac1\u0a9f\u0abe\u0a95\u0ac0"
+    ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05d9\u05d8\u05d5\u05d8\u05e7\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u090f\u0924\u0941\u0924\u093e\u0915\u0940"
+    ],
     "name:hun_x_preferred":[
+        "Aitutaki"
+    ],
+    "name:ind_x_preferred":[
         "Aitutaki"
     ],
     "name:ita_x_preferred":[
@@ -73,10 +94,28 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30c4\u30bf\u30ad\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0c90\u0c9f\u0cc1\u0c9f\u0c95\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc774\ud22c\ud0c0\ud0a4"
+    ],
+    "name:lav_x_preferred":[
+        "Aitutaki"
+    ],
     "name:lit_x_preferred":[
         "Aitutaki"
     ],
+    "name:mar_x_preferred":[
+        "\u0905\u093f\u0924\u0941\u0924\u093e\u0915\u0940"
+    ],
+    "name:msa_x_preferred":[
+        "Aitutaki"
+    ],
     "name:nld_x_preferred":[
+        "Aitutaki"
+    ],
+    "name:nob_x_preferred":[
         "Aitutaki"
     ],
     "name:nor_x_preferred":[
@@ -91,6 +130,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0438\u0442\u0443\u0442\u0430\u043a\u0438"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0da7\u0dd4\u0da7\u0d9a\u0dd2"
+    ],
     "name:slk_x_preferred":[
         "Aitutaki"
     ],
@@ -99,6 +141,30 @@
     ],
     "name:swe_x_preferred":[
         "Aitutaki"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0b9f\u0bcd\u0b9f\u0bc1\u0b9f\u0bbe\u0b95\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c2f\u0c3f\u0c1f\u0c41\u0c1f\u0c3e\u0c15\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e1b\u0e35\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Aitutaki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0456\u0442\u0443\u0442\u0430\u043a\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u06cc\u062a\u0648\u062a\u0627\u06a9\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Aitutaki"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u4f0a\u5716\u5854\u57fa"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COK",
@@ -207,7 +273,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626627,
+    "wof:lastmodified":1563576280,
     "wof:name":"Aitutaki",
     "wof:parent_id":85632481,
     "wof:placetype":"region",
