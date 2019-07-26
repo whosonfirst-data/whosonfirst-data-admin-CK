@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Teenui Village"
     ],
+    "name:pol_x_preferred":[
+        "Teenui"
+    ],
     "name:und_x_variant":[
         "Teenui",
         "Te Enui"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326540161,
-    "wof:lastmodified":1537591097,
+    "wof:lastmodified":1564106274,
     "wof:name":"Teenui Village",
     "wof:parent_id":85670079,
     "wof:placetype":"locality",

@@ -26,6 +26,15 @@
     "iso:country":"CK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Arutanga"
+    ],
+    "name:pol_x_preferred":[
+        "Arutanga"
+    ],
+    "name:spa_x_preferred":[
+        "Arutanga"
+    ],
     "name:und_x_variant":[
         "Arutunga",
         "Arutanga"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260090133,
-    "wof:lastmodified":1537591098,
+    "wof:lastmodified":1564106278,
     "wof:name":"Arutanga",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",
