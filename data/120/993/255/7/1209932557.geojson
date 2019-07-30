@@ -25,6 +25,9 @@
     "iso:country":"CK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngatangiia"
+    ],
     "name:rar_x_preferred":[
         "Ngatangiia"
     ],
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1209932557,
-    "wof:lastmodified":1537591098,
+    "wof:lastmodified":1564106278,
     "wof:name":"Ngatangiia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
