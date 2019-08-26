@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-18.861783,
     "lbl:longitude":-159.790012,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-18.861783,
     "mps:longitude":-159.790012,
     "mz:hierarchy_label":1,
@@ -139,7 +140,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191583,
         85632481,
@@ -151,7 +152,7 @@
         "gn:id":-99,
         "gp:id":24549670,
         "hasc:id":"CK.",
-        "qs:id":774981
+        "qs_pg:id":774981
     },
     "wof:country":"CK",
     "wof:geomhash":"a97c8bec5e11b086ac67a448fc4c5569",
@@ -165,16 +166,13 @@
         }
     ],
     "wof:id":85670101,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564106276,
+    "wof:lastmodified":1566643940,
     "wof:name":"Palmerston",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

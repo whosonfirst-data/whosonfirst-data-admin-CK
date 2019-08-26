@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Rarotonga",
     "iso:country":"CK",
+    "lbl:bbox":"-159.77867,-21.29128,-159.73867,-21.25128",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Titikaveka"
     ],
     "name:und_x_variant":[
-        "Titikaweka",
-        "Titikaveka"
+        "Titikaweka"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1226554505,
-    "wof:lastmodified":1564106281,
+    "wof:lastmodified":1566643947,
     "wof:name":"Titikaveka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
