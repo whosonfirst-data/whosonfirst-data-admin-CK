@@ -11,12 +11,15 @@
     "geom:longitude":-161.08333,
     "gn:country":"CK",
     "gn:fcode":"ATOL",
-    "gn:pop":169,
+    "gn:population":169,
     "iso:country":"CK",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Reirson Island"
     ],
     "qs:name":"Rakahanga Atoll",
@@ -31,7 +34,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4035557,
-        "qs:id":586186
+        "qs_pg:id":586186
     },
     "wof:country":"CK",
     "wof:created":1469052511,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890445481,
-    "wof:lastmodified":1512507551,
+    "wof:lastmodified":1566643945,
     "wof:name":"Rakahanga Atoll",
     "wof:parent_id":85670111,
     "wof:placetype":"locality",

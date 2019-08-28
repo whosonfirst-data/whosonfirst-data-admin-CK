@@ -11,10 +11,14 @@
     "geom:longitude":-161.03528,
     "gn:country":"CK",
     "gn:fcode":"PPL",
-    "gn:pop":69,
+    "gn:population":69,
     "iso:country":"CK",
+    "lbl:bbox":"-161.05528,-10.445,-161.01528,-10.405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0430\u0443\u0445\u0443\u043d\u0443"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Tauhunu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tauhunu Village"
     ],
     "qs:name":"Tauhunu",
@@ -46,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4035523,
-        "qs:id":586183,
+        "qs_pg:id":586183,
         "wd:id":"Q7688693",
         "wk:page":"Tauhunu"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890416617,
-    "wof:lastmodified":1563576286,
+    "wof:lastmodified":1566643945,
     "wof:name":"Tauhunu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-19.249911,
     "lbl:longitude":-158.946232,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.249911,
     "mps:longitude":-158.946232,
     "mz:hierarchy_label":1,
@@ -235,9 +236,8 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1922,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632481,
@@ -249,7 +249,7 @@
         "gn:id":-99,
         "gp:id":24549676,
         "hasc:id":"CK.",
-        "qs:id":135923,
+        "qs_pg:id":135923,
         "wd:id":"Q223379"
     },
     "wof:country":"CK",
@@ -264,16 +264,13 @@
         }
     ],
     "wof:id":85670081,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576280,
+    "wof:lastmodified":1566643941,
     "wof:name":"Aitutaki",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-10.945654,
     "lbl:longitude":-165.809355,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-10.945654,
     "mps:longitude":-165.809355,
     "mz:hierarchy_label":1,
@@ -223,9 +224,8 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1502,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632481,
@@ -237,7 +237,7 @@
         "gn:id":-99,
         "gp:id":24549668,
         "hasc:id":"CK.",
-        "qs:id":131615,
+        "qs_pg:id":131615,
         "wd:id":"Q1130629"
     },
     "wof:country":"CK",
@@ -252,16 +252,13 @@
         }
     ],
     "wof:id":85670105,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576277,
+    "wof:lastmodified":1566643939,
     "wof:name":"Pukapuka",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

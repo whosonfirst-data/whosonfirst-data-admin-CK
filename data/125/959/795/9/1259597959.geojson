@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Rarotonga",
     "iso:country":"CK",
+    "lbl:bbox":"-159.83807,-21.2595,-159.79807,-21.2195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Arorangi"
     ],
@@ -32,9 +36,6 @@
         "\uc544\ub85c\ub791\uae30"
     ],
     "name:pol_x_preferred":[
-        "Arorangi"
-    ],
-    "name:und_x_variant":[
         "Arorangi"
     ],
     "src:geom":"geonames",
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1259597959,
-    "wof:lastmodified":1564106280,
+    "wof:lastmodified":1566643946,
     "wof:name":"Arorangi District",
     "wof:parent_id":85670089,
     "wof:placetype":"locality",

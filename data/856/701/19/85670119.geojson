@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-8.967759,
     "lbl:longitude":-157.975971,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-8.967759,
     "mps:longitude":-157.975971,
     "mz:hierarchy_label":1,
@@ -121,9 +122,8 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":186,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632481,
@@ -135,7 +135,7 @@
         "gn:id":-99,
         "gp:id":24549679,
         "hasc:id":"CK.",
-        "qs:id":135926
+        "qs_pg:id":135926
     },
     "wof:country":"CK",
     "wof:geomhash":"0ae5cc10c98cf647b5f987690fdbfc84",
@@ -149,16 +149,13 @@
         }
     ],
     "wof:id":85670119,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553626628,
+    "wof:lastmodified":1566643940,
     "wof:name":"Penrhyn",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

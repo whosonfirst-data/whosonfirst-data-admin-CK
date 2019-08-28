@@ -11,12 +11,15 @@
     "geom:longitude":-165.41667,
     "gn:country":"CK",
     "gn:fcode":"ISL",
-    "gn:pop":72,
+    "gn:population":72,
     "iso:country":"CK",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Motugaugau"
     ],
     "qs:name":"Nassau Island",
@@ -28,7 +31,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4035633,
-        "qs:id":586189
+        "qs_pg:id":586189
     },
     "wof:country":"CK",
     "wof:created":1469051475,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":890423003,
-    "wof:lastmodified":1506728544,
+    "wof:lastmodified":1566643945,
     "wof:name":"Nassau Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Rarotonga",
     "iso:country":"CK",
+    "lbl:bbox":"-159.80537,-18.89437,-159.76537,-18.85437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632481,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326544787,
-    "wof:lastmodified":1536965591,
+    "wof:lastmodified":1566643939,
     "wof:name":"Tautu",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-159.79331,
     "gn:country":"CK",
     "gn:fcode":"PPL",
-    "gn:pop":285,
+    "gn:population":285,
     "iso:country":"CK",
+    "lbl:bbox":"-159.81331,-18.87529,-159.77331,-18.83529",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Amuri"
     ],
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":4035755,
         "gp:id":1064302,
-        "qs:id":586194,
+        "qs_pg:id":586194,
         "wd:id":"Q2844525",
         "wk:page":"Amuri"
     },
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890423715,
-    "wof:lastmodified":1563576285,
+    "wof:lastmodified":1566643944,
     "wof:name":"Amuri",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",

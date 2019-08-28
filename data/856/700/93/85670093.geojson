@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-19.810625,
     "lbl:longitude":-157.724335,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-19.810625,
     "mps:longitude":-157.724335,
     "mz:hierarchy_label":1,
@@ -214,7 +215,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":354,
     "wof:belongsto":[
         136253053
@@ -225,7 +226,7 @@
         "gn:id":-99,
         "gp:id":24549667,
         "hasc:id":"CK.",
-        "qs:id":131586,
+        "qs_pg:id":131586,
         "wd:id":"Q596542"
     },
     "wof:country":"CK",
@@ -239,16 +240,13 @@
         }
     ],
     "wof:id":85670093,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576279,
+    "wof:lastmodified":1566643940,
     "wof:name":"Mitiaro",
     "wof:parent_id":-1,
     "wof:placetype":"region",

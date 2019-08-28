@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-21.21605,
     "lbl:longitude":-159.785461,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-21.21605,
     "mps:longitude":-159.785461,
     "mz:hierarchy_label":1,
@@ -256,7 +257,7 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1330,
     "wof:belongsto":[
         102191583,
@@ -269,7 +270,7 @@
         "gn:id":-99,
         "gp:id":24549675,
         "hasc:id":"CK.",
-        "qs:id":976983,
+        "qs_pg:id":976983,
         "wd:id":"Q471793"
     },
     "wof:country":"CK",
@@ -284,16 +285,13 @@
         }
     ],
     "wof:id":85670089,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563576280,
+    "wof:lastmodified":1566643941,
     "wof:name":"Rarotonga",
     "wof:parent_id":85632481,
     "wof:placetype":"region",
