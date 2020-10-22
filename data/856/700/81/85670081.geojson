@@ -9,7 +9,6 @@
     "geom:bbox":"-158.955555793,-19.2692196589,-158.898508267,-19.2373186177",
     "geom:latitude":-19.252015,
     "geom:longitude":-158.925041,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Aitutaki Island Council"
@@ -270,7 +269,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1603244046,
     "wof:name":"Aitutaki",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

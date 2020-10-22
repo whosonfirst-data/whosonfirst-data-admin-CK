@@ -9,7 +9,6 @@
     "geom:bbox":"-158.064808723,-9.11394622194,-157.908762174,-8.94670989415",
     "geom:latitude":-8.993401,
     "geom:longitude":-157.980212,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Penrhyn Island Council"
@@ -155,7 +154,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1603244045,
     "wof:name":"Penrhyn",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"-157.349354621,-20.1791317688,-157.312814908,-20.1373837214",
     "geom:latitude":-20.157879,
     "geom:longitude":-157.332347,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Mauke Island Council"
@@ -252,7 +251,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1603244046,
     "wof:name":"Mauke",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

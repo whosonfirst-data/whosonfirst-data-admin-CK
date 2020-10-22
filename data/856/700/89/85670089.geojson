@@ -9,7 +9,6 @@
     "geom:bbox":"-159.846262174,-21.2543270805,-159.73603268,-21.1861304663",
     "geom:latitude":-21.219344,
     "geom:longitude":-159.78651,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Rarotonga Island Council"
@@ -291,7 +290,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1603244046,
     "wof:name":"Rarotonga",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

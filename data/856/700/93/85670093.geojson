@@ -9,7 +9,6 @@
     "geom:bbox":"-157.742136197,-19.8558895807,-157.707224088,-19.767185154",
     "geom:latitude":-19.810706,
     "geom:longitude":-157.721162,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Mitiaro Island Council"
@@ -246,7 +245,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1603244046,
     "wof:name":"Mitiaro",
     "wof:parent_id":-1,
     "wof:placetype":"region",

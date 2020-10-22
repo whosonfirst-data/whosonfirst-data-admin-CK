@@ -9,7 +9,6 @@
     "geom:bbox":"-157.968698697,-21.9388973937,-157.887074348,-21.877536717",
     "geom:latitude":-21.911209,
     "geom:longitude":-157.929398,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Mangaia Island Council"
@@ -255,7 +254,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1603244046,
     "wof:name":"Mangaia",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"-165.824737108,-13.28134531,-163.082386848,-10.8801408825",
     "geom:latitude":-11.030509,
     "geom:longitude":-165.719527,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Pukapuka Island Council"
@@ -258,7 +257,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643939,
+    "wof:lastmodified":1603244045,
     "wof:name":"Pukapuka",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

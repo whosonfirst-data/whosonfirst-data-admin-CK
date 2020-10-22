@@ -9,7 +9,6 @@
     "geom:bbox":"-158.297352668,-20.0197079407,-158.078317838,-19.8106421849",
     "geom:latitude":-19.993042,
     "geom:longitude":-158.110522,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Atiu Island Council"
@@ -258,7 +257,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643941,
+    "wof:lastmodified":1603244046,
     "wof:name":"Atiu",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

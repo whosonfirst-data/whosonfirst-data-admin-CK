@@ -9,7 +9,6 @@
     "geom:bbox":"-159.802316861,-18.8879533823,-159.761382616,-18.8289527318",
     "geom:latitude":-18.858395,
     "geom:longitude":-159.786601,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Palmerston Island Council"
@@ -172,7 +171,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1603244045,
     "wof:name":"Palmerston",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

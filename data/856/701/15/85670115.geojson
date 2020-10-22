@@ -9,7 +9,6 @@
     "geom:bbox":"-160.996408658,-10.4227841125,-160.938099739,-10.371514581",
     "geom:latitude":-10.39142,
     "geom:longitude":-160.972528,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Manihiki Island Council"
@@ -251,7 +250,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1603244045,
     "wof:name":"Manihiki",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"-161.088002082,-10.0446102834,-161.070057746,-10.02743906",
     "geom:latitude":-10.035823,
     "geom:longitude":-161.080727,
-    "gn:id":"",
     "iso:country":"CK",
     "label:eng_x_preferred_longname":[
         "Rakahanga Island Council"
@@ -245,7 +244,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1603244045,
     "wof:name":"Rakahanga",
     "wof:parent_id":-1,
     "wof:placetype":"region",
