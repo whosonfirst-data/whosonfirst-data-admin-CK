@@ -6,8 +6,8 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
     "geom:area_square_m":1438064.660997,
-    "geom:bbox":"-161.088002082,-10.0446102834,-161.070057746,-10.02743906",
-    "geom:latitude":-10.035823,
+    "geom:bbox":"-161.088002,-10.04461,-161.070058,-10.027439",
+    "geom:latitude":-10.035822,
     "geom:longitude":-161.080727,
     "gn:id":"",
     "iso:country":"CK",
@@ -138,10 +138,22 @@
         "\u0420\u0430\u043a\u0430\u0445\u0430\u043d\u0433\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u0631\u0627\u06a9\u0627\u06c1\u0627\u0646\u06af\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0631\u0627\u06a9\u0627\u062d\u0627\u0646\u062c\u0627"
     ],
     "name:vie_x_preferred":[
+        "\u0110\u1ea3o Rakahanga"
+    ],
+    "name:vie_x_variant":[
         "Rakahanga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u62c9\u5361\u6c49\u683c\u65af\u5c9b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u62c9\u5361\u6f22\u52a0\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5361\u6f22\u683c\u65af\u5cf6"
@@ -230,7 +242,7 @@
         "wd:id":"Q1345121"
     },
     "wof:country":"CK",
-    "wof:geomhash":"5507f99204c249e4dd3f0f93a45ac660",
+    "wof:geomhash":"985bdd63ba161f87a9d57c3f2687cd26",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -245,7 +257,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566643940,
+    "wof:lastmodified":1636494822,
     "wof:name":"Rakahanga",
     "wof:parent_id":-1,
     "wof:placetype":"region",
@@ -255,10 +267,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -161.08800208153082,
-    -10.04461028343781,
-    -161.07005774596817,
-    -10.02743905996459
+    -161.088002,
+    -10.04461,
+    -161.070058,
+    -10.027439
 ],
-  "geometry": {"coordinates":[[[-161.08800208153082,-10.03508879940853],[-161.07005774596817,-10.02743905996459],[-161.0755509111456,-10.0363908828329],[-161.08726966106599,-10.04461028343781],[-161.08800208153082,-10.03508879940853]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[-161.08800199999999,-10.035089],[-161.07005799999999,-10.027439],[-161.07555099999999,-10.036391],[-161.08726999999999,-10.04461],[-161.08800199999999,-10.035089]]],"type":"Polygon"}
 }
