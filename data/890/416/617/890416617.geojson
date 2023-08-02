@@ -22,6 +22,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0443\u0445\u0443\u043d\u0443"
     ],
+    "name:cat_x_preferred":[
+        "Tauhunu"
+    ],
     "name:ceb_x_preferred":[
         "Tauhunu"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":890416617,
-    "wof:lastmodified":1566643945,
+    "wof:lastmodified":1690866752,
     "wof:name":"Tauhunu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

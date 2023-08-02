@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Amuri"
+    ],
     "name:ceb_x_preferred":[
         "Amuri"
     ],
@@ -34,11 +37,17 @@
     "name:pol_x_preferred":[
         "Amuri"
     ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0443\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Amuri"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0645\u0648\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u7a46\u52d2"
     ],
     "qs:name":"Amuri",
     "qs:photos_9r":0,
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":890423715,
-    "wof:lastmodified":1566643944,
+    "wof:lastmodified":1690866752,
     "wof:name":"Amuri",
     "wof:parent_id":85670101,
     "wof:placetype":"locality",

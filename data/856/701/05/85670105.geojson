@@ -53,6 +53,9 @@
     "name:eng_x_preferred":[
         "Pukapuka"
     ],
+    "name:est_x_preferred":[
+        "Pukapuka"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u06a9\u0627\u067e\u0648\u06a9\u0627"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d5\u05e7\u05d4\u05e4\u05d5\u05e7\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e4\u05d5\u05e7\u05d0\u05e4\u05d5\u05e7\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0941\u0915\u093e\u092a\u0941\u0915\u093e"
@@ -268,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494822,
+    "wof:lastmodified":1690866750,
     "wof:name":"Pukapuka",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

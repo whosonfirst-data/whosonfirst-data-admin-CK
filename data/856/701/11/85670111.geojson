@@ -158,6 +158,9 @@
     "name:zho_x_preferred":[
         "\u62c9\u5361\u6f22\u683c\u65af\u5cf6"
     ],
+    "name:zho_x_variant":[
+        "\u62c9\u5361\u676d\u963f\u5cf6"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"COK",
     "ne:adm0_label":"5",
@@ -257,7 +260,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494822,
+    "wof:lastmodified":1690866750,
     "wof:name":"Rakahanga",
     "wof:parent_id":-1,
     "wof:placetype":"region",

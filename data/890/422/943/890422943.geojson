@@ -37,6 +37,9 @@
     "name:pol_x_preferred":[
         "Omoka"
     ],
+    "name:rus_x_preferred":[
+        "\u041e\u043c\u043e\u043a\u0430"
+    ],
     "name:spa_x_preferred":[
         "Omoka"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":890422943,
-    "wof:lastmodified":1566643944,
+    "wof:lastmodified":1690866752,
     "wof:name":"Omoka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
