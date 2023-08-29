@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "Roto"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d8\u05d5"
+    ],
     "name:jpn_x_preferred":[
         "\u30ed\u30c8"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890435521,
-    "wof:lastmodified":1566643945,
+    "wof:lastmodified":1690866752,
     "wof:name":"Roto",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

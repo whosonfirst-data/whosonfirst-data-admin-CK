@@ -62,6 +62,9 @@
     "name:epo_x_preferred":[
         "Rarotonga"
     ],
+    "name:est_x_preferred":[
+        "Rarotonga"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u0627\u0631\u0648\u062a\u0648\u0646\u06af\u0627"
     ],
@@ -143,6 +146,9 @@
     "name:por_x_preferred":[
         "Rarotonga"
     ],
+    "name:ron_x_preferred":[
+        "Rarotonga"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u0430\u0440\u043e\u0442\u043e\u043d\u0433\u0430"
     ],
@@ -173,6 +179,9 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e01\u0e32\u0e30\u0e23\u0e32\u0e42\u0e23\u0e17\u0e2d\u0e07\u0e01\u0e49\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e32\u0e42\u0e23\u0e15\u0e2d\u0e07\u0e01\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Rarotonga"
     ],
@@ -187,6 +196,12 @@
     ],
     "name:vie_x_preferred":[
         "Rarotonga"
+    ],
+    "name:wls_x_preferred":[
+        "Lalotoga"
+    ],
+    "name:yue_x_preferred":[
+        "\u62c9\u7f85\u6e6f\u52a0"
     ],
     "name:zho_cn_x_preferred":[
         "\u62c9\u7f57\u6c64\u52a0\u5c9b"
@@ -300,7 +315,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494823,
+    "wof:lastmodified":1690866751,
     "wof:name":"Rarotonga",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

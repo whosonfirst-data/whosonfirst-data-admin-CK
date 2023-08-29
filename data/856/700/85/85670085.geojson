@@ -50,10 +50,16 @@
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03bd\u03b3\u03ba\u03ad\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03bd\u03b3\u03ba\u03ac\u03b9\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Mangaia"
     ],
     "name:epo_x_preferred":[
+        "Mangaia"
+    ],
+    "name:est_x_preferred":[
         "Mangaia"
     ],
     "name:fas_x_preferred":[
@@ -70,6 +76,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a82\u0a97\u0abf\u0aaf\u0abe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05d2\u05d0\u05d9\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0902\u0917\u0948\u092f\u093e"
@@ -267,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494823,
+    "wof:lastmodified":1690866751,
     "wof:name":"Mangaia",
     "wof:parent_id":85632481,
     "wof:placetype":"region",
