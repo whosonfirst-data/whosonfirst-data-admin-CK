@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000118,
-    "geom:area_square_m":1438064.660997,
+    "geom:area_square_m":1438021.841473,
     "geom:bbox":"-161.088002,-10.04461,-161.070058,-10.027439",
     "geom:latitude":-10.035822,
     "geom:longitude":-161.080727,
@@ -23,7 +23,7 @@
     "mps:latitude":-10.035673,
     "mps:longitude":-161.080863,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -241,11 +241,13 @@
         "gn:id":-99,
         "gp:id":24549673,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-RK",
         "qs_pg:id":775065,
         "wd:id":"Q1345121"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"985bdd63ba161f87a9d57c3f2687cd26",
+    "wof:geomhash":"83da69db069c1be87710aaf846caa48a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -260,7 +262,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866750,
+    "wof:lastmodified":1695884285,
     "wof:name":"Rakahanga",
     "wof:parent_id":-1,
     "wof:placetype":"region",

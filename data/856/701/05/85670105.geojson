@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000287,
-    "geom:area_square_m":3478445.863423,
+    "geom:area_square_m":3478460.968712,
     "geom:bbox":"-165.824737,-13.281345,-163.082387,-10.880141",
     "geom:latitude":-11.030518,
     "geom:longitude":-165.719517,
@@ -23,7 +23,7 @@
     "mps:latitude":-10.945654,
     "mps:longitude":-165.809355,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -253,11 +253,13 @@
         "gn:id":-99,
         "gp:id":24549668,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-PK",
         "qs_pg:id":131615,
         "wd:id":"Q1130629"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"8e38efba11bb6071b0772d68fc07fd0f",
+    "wof:geomhash":"8f0960438e065d8204787ec9ff398808",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -274,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866750,
+    "wof:lastmodified":1695884285,
     "wof:name":"Pukapuka",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

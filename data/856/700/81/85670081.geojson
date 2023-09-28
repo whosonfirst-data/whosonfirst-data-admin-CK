@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000524,
-    "geom:area_square_m":6121436.631214,
+    "geom:area_square_m":6121512.653383,
     "geom:bbox":"-158.955556,-19.26922,-158.898508,-19.237319",
     "geom:latitude":-19.252015,
     "geom:longitude":-158.925041,
@@ -23,7 +23,7 @@
     "mps:latitude":-19.249911,
     "mps:longitude":-158.946232,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -258,11 +258,13 @@
         "gn:id":-99,
         "gp:id":24549676,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-AI",
         "qs_pg:id":135923,
         "wd:id":"Q223379"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"576be4f634376f0ee74fd4adf8910530",
+    "wof:geomhash":"190d68284a67a7f9f722a6e1d5bfb1ba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -279,7 +281,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866751,
+    "wof:lastmodified":1695884281,
     "wof:name":"Aitutaki",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

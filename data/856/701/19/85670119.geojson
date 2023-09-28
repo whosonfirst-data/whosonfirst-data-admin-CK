@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001321,
-    "geom:area_square_m":16132643.49385,
+    "geom:area_square_m":16132442.188397,
     "geom:bbox":"-158.064809,-9.113946,-157.908762,-8.94671",
     "geom:latitude":-8.993401,
     "geom:longitude":-157.980211,
@@ -165,10 +165,12 @@
         "gn:id":-99,
         "gp:id":24549679,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-TN",
         "qs_pg:id":135926
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"b7ea191a4aac349e2a5bef162f75a751",
+    "wof:geomhash":"dea17c8de9309cc6ccdb8dcfaab7686a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -185,7 +187,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494822,
+    "wof:lastmodified":1695884778,
     "wof:name":"Penrhyn",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

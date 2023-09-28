@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000199,
-    "geom:area_square_m":2423117.247887,
+    "geom:area_square_m":2422828.446068,
     "geom:bbox":"-160.996409,-10.422784,-160.9381,-10.371515",
     "geom:latitude":-10.39142,
     "geom:longitude":-160.972527,
@@ -23,7 +23,7 @@
     "mps:latitude":-10.390599,
     "mps:longitude":-160.972969,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -244,11 +244,13 @@
         "gn:id":-99,
         "gp:id":24549680,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-MN",
         "qs_pg:id":135927,
         "wd:id":"Q967796"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"04d8b692326b31cecb5830c8122b4f8c",
+    "wof:geomhash":"90e025a625db3d9664b3f6bf5ca0b192",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -263,7 +265,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494822,
+    "wof:lastmodified":1695884285,
     "wof:name":"Manihiki",
     "wof:parent_id":-1,
     "wof:placetype":"region",
