@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005582,
-    "geom:area_square_m":64344089.917758,
+    "geom:area_square_m":64343962.583953,
     "geom:bbox":"-159.846262,-21.254327,-159.736033,-21.18613",
     "geom:latitude":-21.219344,
     "geom:longitude":-159.78651,
@@ -23,7 +23,7 @@
     "mps:latitude":-21.21605,
     "mps:longitude":-159.785461,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -294,11 +294,13 @@
         "gn:id":-99,
         "gp:id":24549675,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-RT",
         "qs_pg:id":976983,
         "wd:id":"Q471793"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"dd1712c3a1d2c0ea577cd95ea67bdd5c",
+    "wof:geomhash":"dd2798d9204a5a3b636304b418c4b994",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866751,
+    "wof:lastmodified":1695884286,
     "wof:name":"Rarotonga",
     "wof:parent_id":85632481,
     "wof:placetype":"region",

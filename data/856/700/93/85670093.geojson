@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00174,
-    "geom:area_square_m":20243391.06936,
+    "geom:area_square_m":20243652.07359,
     "geom:bbox":"-157.742136,-19.85589,-157.707224,-19.767185",
     "geom:latitude":-19.810705,
     "geom:longitude":-157.721162,
@@ -23,7 +23,7 @@
     "mps:latitude":-19.810625,
     "mps:longitude":-157.724335,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -241,11 +241,13 @@
         "gn:id":-99,
         "gp:id":24549667,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-MO",
         "qs_pg:id":131586,
         "wd:id":"Q596542"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"369fd6049afb82db81478ddca747601a",
+    "wof:geomhash":"33320ed281585150df7034a76101fcad",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -261,7 +263,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690866750,
+    "wof:lastmodified":1695884286,
     "wof:name":"Mitiaro",
     "wof:parent_id":-1,
     "wof:placetype":"region",

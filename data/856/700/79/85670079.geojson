@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00181,
-    "geom:area_square_m":21033617.6453,
+    "geom:area_square_m":21033725.825422,
     "geom:bbox":"-158.297353,-20.019708,-158.078318,-19.810642",
     "geom:latitude":-19.993041,
     "geom:longitude":-158.110523,
@@ -23,7 +23,7 @@
     "mps:latitude":-19.997648,
     "mps:longitude":-158.107082,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -249,11 +249,13 @@
         "gn:id":-99,
         "gp:id":24549674,
         "hasc:id":"CK.",
+        "iso:code_pseudo":"CK-AT",
         "qs_pg:id":1263410,
         "wd:id":"Q755982"
     },
+    "wof:concordances_official":"iso:code_pseudo",
     "wof:country":"CK",
-    "wof:geomhash":"a5d59332ff46aacd0b2472a90f335f1d",
+    "wof:geomhash":"5ce42984c6b3d957dd86a627bb907fd5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -270,7 +272,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636494823,
+    "wof:lastmodified":1695884285,
     "wof:name":"Atiu",
     "wof:parent_id":85632481,
     "wof:placetype":"region",
